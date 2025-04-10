@@ -1,0 +1,1 @@
+print("El nombre de tu primera bebida\nes: '"+input("Cuál es el nombre de tu primer amor: ")+" "+input("Describe en una palabra tu aspecto: ")+"'\n Felicitaciones!!!")
